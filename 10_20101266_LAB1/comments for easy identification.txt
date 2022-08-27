@@ -1,0 +1,5 @@
+The input file contains the inputs for problem 1.
+
+The inputA file contains the inputs for n and the matrix A.
+
+The inputB file contains the inputs for the matrix B.
